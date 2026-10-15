@@ -39,12 +39,4 @@ ollama pull llama3.2
 2. Paste a piece of code or ask a technical question.
 3. The assistant explains it step by step.
 
-## Possible improvements
 
-- Add tool calling (for example, a function that returns the current time)
-- Add audio input and spoken replies
-- Write a more detailed system prompt with specific areas of expertise
-
-## Notes
-
-Never commit your `.env` file or API keys. Add `.env` to your `.gitignore`.
